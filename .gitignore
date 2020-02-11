@@ -2,3 +2,4 @@
 # Accepted files format
 !.gitignore
 !*.md
+!*.bat
