@@ -1,2 +1,1 @@
-# icub-cad-snapshots
-Repository containing the CAD snapshot for each robot S/N.
+# Snapshot of iCub S/N 041 
