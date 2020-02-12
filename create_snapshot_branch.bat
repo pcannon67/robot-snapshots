@@ -5,6 +5,9 @@ rm '.gitignore'
 (
 echo *.1 filter=lfs diff=lfs merge=lfs -text
 echo *.pdf filter=lfs diff=lfs merge=lfs -text
+echo *.stl filter=lfs diff=lfs merge=lfs -text
+echo *.step filter=lfs diff=lfs merge=lfs -text
+echo *.dxf filter=lfs diff=lfs merge=lfs -text
 ) > .gitattributes
 git add .gitattributes
 (
@@ -15,6 +18,7 @@ echo !.gitignore
 echo !*.1
 echo !*.pdf
 echo !*.md
+echo !*.stl
 echo !*.step
 echo !.*dxf
 ) > .gitignore
