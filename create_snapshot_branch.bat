@@ -15,6 +15,8 @@ echo !.gitignore
 echo !*.1
 echo !*.pdf
 echo !*.md
+echo !*.step
+echo !.*dxf
 ) > .gitignore
 git add .gitignore
 git commit -a -m "Initial commit."
