@@ -1,5 +1,5 @@
-set /p name="Enter branch name: "
-git checkout --orphan %name%
+set /p serialNumber="Enter the iCub S/N as three digits (e.g. 005): "
+git checkout --orphan sn_%serialNumber%
 git rm -rf .
 rm '.gitignore'
 (
@@ -18,7 +18,7 @@ echo !*.md
 ) > .gitignore
 git add .gitignore
 git commit -a -m "Initial commit."
-echo # Snapshot of robot %name% > README.md
+echo # Snapshot of iCub S/N %serialNumber% > README.md
 git add README.md
 git commit -a -m "Add readme."
-git push -u origin %name%
+git push -u origin sn_%serialNumber%
