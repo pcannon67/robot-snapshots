@@ -21,4 +21,4 @@ git commit -a -m "Initial commit."
 echo # Snapshot of robot %name% > README.md
 git add README.md
 git commit -a -m "Add readme."
-git push origin %name%
+git push -u origin %name%
