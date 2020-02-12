@@ -1,6 +1,6 @@
 set /p serialNumber="Enter the iCub S/N as three digits (e.g. 005): "
 git checkout --orphan sn_%serialNumber%
-git rm -rf .
+git rm -rf . !("create_snapshot_branch.bat")
 rm '.gitignore'
 (
 echo *.1 filter=lfs diff=lfs merge=lfs -text
