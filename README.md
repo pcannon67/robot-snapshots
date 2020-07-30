@@ -1,2 +1,4 @@
-# icub-cad-snapshots
-Repository containing the CAD snapshot for each robot S/N.
+iCub CAD Snapshots
+==================
+
+This repository contains the CAD snapshots for each robot S/N and/or batch or robots.
