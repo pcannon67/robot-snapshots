@@ -1,0 +1,11 @@
+*
+# Accepted files format
+!.gitattributes
+!.gitignore
+!*.1
+!*.pdf
+!*.md
+!*.stl
+!*.step
+!*.dxf
+!*/
