@@ -6,7 +6,7 @@ https://github.com/icub-tech-iit/electronics-wiring/blob/master/icub2.7/pdf/iCub
 
 Below is the link to the file where to find the positioning of the Mtb4 electronic boards on the covers
 
-https://github.com/icub-tech-iit/electronics-wiring-public/blob/master/icub2.7/pdf/icub2.7-mtb4-placement.pdf
+https://github.com/icub-tech-iit/electronics-wiring/blob/master/icub2.7/pdf/iCub2.7-mtb4-placement.pdf
 
 Below is the link to the file where to find the positioning of the electronic boards and motors
 
