@@ -10,4 +10,4 @@ https://github.com/icub-tech-iit/electronics-wiring-public/blob/master/icub2.7/p
 
 Below is the link to the file where to find the positioning of the electronic boards and motors
 
-https://github.com/icub-tech-iit/electronics-wiring-public/blob/master/icub2.7/pdf/Motor%20and%20board%20placement_iCub2.5.pdf
+https://github.com/icub-tech-iit/electronics-wiring/blob/master/icub2.7/pdf/Motor%20and%20board%20placement_iCub2.5.pdf
