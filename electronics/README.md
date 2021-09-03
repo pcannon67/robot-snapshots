@@ -2,7 +2,7 @@
 
 At the following link you can find the Logic diagram used to wire the robot
 
-https://github.com/icub-tech-iit/electronics-wiring/blob/master/icub2.7/pdf/iCub2.7_E3.6.2_14839_Harness.pdf
+https://github.com/icub-tech-iit/electronics-wiring/blob/master/icub2.7/pdf/iCub2.7_E3.6.2_14838_Logic.pdf
 
 Below is the link to the file where to find the positioning of the Mtb4 electronic boards on the covers
 
