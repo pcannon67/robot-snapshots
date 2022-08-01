@@ -1,4 +1,4 @@
-# Snapshot of iCub S/N 004 
+# Snapshot of iCub S/N 004 + ( forearm/hand V2 )
 The upgrade of the mechanics consists of :
 
 Upper body without Hand & forearm, assembly RC_TLR_003_A_005_UPPERBODY rev A4.
