@@ -18,8 +18,4 @@ $ git clone https://github.com/icub-tech-iit/icub-snapshots.git --single-branch 
 
 
 ## Maintainers
-This repository is maintained by:
-
-| | |
-|:---:|:---:|
-| [<img src="https://github.com/Mick3Lozzo.png" width="40">](https://github.com/Mick3Lozzo) | [@Mick3Lozzo](https://github.com/Mick3Lozzo) |
+This repository is maintained by the CAD designer in the Team [PROTO](https://github.com/orgs/icub-tech-iit/teams/proto/members).
