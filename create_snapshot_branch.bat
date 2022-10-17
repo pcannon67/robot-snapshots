@@ -1,5 +1,6 @@
-set /p serialNumber="Enter the iCub S/N as three digits (e.g. 005): "
-git checkout --orphan sn_%serialNumber%
+set /p robotName="Enter the robot name in lower case (e.g. icub, ergocub): "
+set /p serialNumber="Enter the robot S/N as three digits (e.g. 005): "
+git checkout --orphan %robotName%_sn_%serialNumber%
 
 REM Delete master branch inherited files.
 git rm --cached -r .
@@ -31,9 +32,9 @@ echo *.dxf filter=lfs diff=lfs merge=lfs -text
 ) > .gitattributes
 git add .gitattributes
 git commit -a -m "Add LFS."
-echo # Snapshot of iCub S/N %serialNumber% > README.md
+echo # Snapshot of %robotName% S/N %serialNumber% > README.md
 git add README.md
-git commit -a -m "Add readme."
+git commit -a -m "Add README."
 
 REM Create the subfolders with the associated readme.
 set folderList=(cad-model,electronics,wiring,media,prodoc)
@@ -51,7 +52,7 @@ git add .
 git commit -a -m "Add subfolders with the associated readme."
 
 REM  Push the new branch
-git push -u origin sn_%serialNumber%
+git push -u origin %robotName%_sn_%serialNumber%
 
 REM Delete the script from the branch
 start /b "" cmd /c del "%~f0"&exit /b
