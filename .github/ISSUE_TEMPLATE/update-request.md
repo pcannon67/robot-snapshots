@@ -1,7 +1,7 @@
 ---
 name: request update snapshot
 about: Template for request update snapshot issue
-title: [platform_sn_xxx] [request issue title]
+title: "[platform_sn_xxx] [request issue title]"
 labels: 
 assignees: 'Elio75'
 
