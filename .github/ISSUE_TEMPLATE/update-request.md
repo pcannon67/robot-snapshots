@@ -3,7 +3,7 @@ name: request update snapshot
 about: Template for request update snapshot issue
 title: request issue title
 labels: 
-assignees: '@Elio75'
+assignees: 'Elio75'
 
 ---
 
