@@ -17,3 +17,7 @@ WITHOUT:
 
 WITH:
 - Dragonfly hi-res (cod.3723)
+
+REFERENCES: 
+
+https://github.com/icub-tech-iit/proto/issues/1757
