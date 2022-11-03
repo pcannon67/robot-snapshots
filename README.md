@@ -11,8 +11,10 @@
 
 ![image](https://user-images.githubusercontent.com/53298662/198590024-69fce856-415c-4d1c-a435-c3621a3f74e5.png)
 
-# REFERENCES
+**REFERENCES**
 
 - [issue#1964](https://github.com/icub-tech-iit/proto/issues/1964)
 - [issue#1977](https://github.com/icub-tech-iit/proto/issues/1977)
 
+
+**The upgrade of the electronics consists of :**
