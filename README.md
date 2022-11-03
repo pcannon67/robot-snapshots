@@ -20,4 +20,4 @@ WITH:
 
 REFERENCES: 
 
-- https://github.com/icub-tech-iit/proto/issues/1757
+- [issue#1757](https://github.com/icub-tech-iit/proto/issues/1757)
