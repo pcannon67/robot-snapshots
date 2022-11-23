@@ -9,6 +9,7 @@
 - Lower body:
 
 On Part ECUB_003_P_137 part no. 16112, a modification was made to the internal diameter to allow coupling with the following parts:
+
 ![image](https://user-images.githubusercontent.com/53298662/203558436-c363d7b8-f84a-4c1c-82e2-a38db2dbdf90.png)
 
 
