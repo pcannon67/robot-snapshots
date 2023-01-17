@@ -36,8 +36,8 @@ The following table details the sheats and tendons code. The precise length is d
 
 | Component | Alias | WINGST code | Lenght |
 | ---- | ---- | ---- | ---- | 
-| Thumb sheat | MOLL-AST_1356-0_35-2_0-800_0 | 16584 | 190 [mm] +- 10% |
-| Other fingers sheat | MOLL-AST_1356-0_35-2_0-800_0 | 16584 | 200 [mm] +- 10% |
+| Thumb sheath | MOLL-AST_1356-0_35-2_0-800_0 | 16584 | 190 [mm] +- 10% |
+| Other fingers sheath | MOLL-AST_1356-0_35-2_0-800_0 | 16584 | 200 [mm] +- 10% |
 | Tendons | CG077081 | 4482 | 350 [mm] |
 
 
