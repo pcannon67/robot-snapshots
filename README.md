@@ -35,6 +35,7 @@ Hip cable covers have been added
 The following table details the sheats and tendons code. The precise length is defined during the assembling of the hand.
 
 | Component | Alias | WINGST code | Lenght |
+| ---- | ---- | ---- | ---- | 
 | Thumb sheat | MOLL-AST_1356-0_35-2_0-800_0 | 16584 | 188 mm +- 10% |
 | Other fingers sheat | MOLL-AST_1356-0_35-2_0-800_0 | 16584 | 200 mm +- 10% |
 | Thumb tendon | CG077081 | 4482 | 225 mm +- 10% |
