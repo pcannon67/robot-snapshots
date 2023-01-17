@@ -44,6 +44,10 @@ The following table details the sheats and tendons code. The precise length is d
 
 The following images detail the routing of the tendons.
 
+- Left hand
 ![image info](./media/hand_tendons_routing.png)
 ![image info](./media/hand_tendons_routing_detail_1.png)
 ![image info](./media/hand_tendons_routing_detail_2.png)
+
+- Right hand
+![image info](./media/hand_tendons_routing_detail_3.png)
