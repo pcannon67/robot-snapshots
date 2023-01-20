@@ -6,6 +6,18 @@
 
 **NOTE :**
 
+- **Neck**
+ 
+ Added washers in the neck joint 
+ 
+ | Item / IITCODE | Quantity |  Description | Notes  |
+|:---:|:---:|:---|:---|
+| 6287 | 1pz | NECK SPACER (int. diameter 26 mm) |  |
+| 1874 | 4pz | Washer - flat regular type - M2.5 (2.7x6x0.5) - SS A2 140HV - DIN125 A, ISO7089, UNI 6592 |
+
+![image](https://user-images.githubusercontent.com/53298662/213653401-4e1c9ff9-d0f5-4930-9128-17668442769f.png)
+
+
 - **Lower body**:
 
 On Part ECUB_003_P_137 part no. 16112, a modification was made to the internal diameter to allow coupling with the following parts:
