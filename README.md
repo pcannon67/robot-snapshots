@@ -25,4 +25,4 @@
 - (upperbody) Gearbox Nidec shimpo cod. 14458 e 14459
 - Sheat support &#x2192; Alias  RC_TLR_011_P_051 cod. 3320.A1 and RC_TLR_012_P_034 cod. 3277.A1
 
-HEAD &#x2192; To Be Defined
+**HEAD** &#x2192; To Be Defined
