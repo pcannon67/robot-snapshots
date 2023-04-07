@@ -3,8 +3,8 @@
 
 ![image](https://user-images.githubusercontent.com/53298662/230579799-1b9c1d3c-701e-475b-a1bd-13e3bae24052.png)
 
-- Upperbody Alias RC_TLR_003_A_005_UPPERBODY cod.4380 rev A4 (without hands and forearms) &#x2192; snapshot batch_2021_A
-- Hands and Forearms &#x2192; snapshot batch2020-01
+- Upperbody Alias RC_TLR_003_A_005_UPPERBODY cod.4380 rev A4 (without hands and forearms) &#x2192; **snapshot batch_2021_A**
+- Hands and Forearms &#x2192; **snapshot batch2020-01**
     - Right Forearm &#x2192; Alias RC_TLR_010_A_001_RIGHT_FOREARM cod.3499 rev A2
     - Left Forearm  &#x2192; Alias RC_TLR_007_A_001_LEFT_FOREARM cod.3565 rev A2
     - Right Hand &#x2192; Alias RC_TLR_011_A_001_RIGHT_HAND cod.3290 rev A1
@@ -16,7 +16,7 @@
       
       ![image](https://user-images.githubusercontent.com/53298662/230590412-130a64e2-7022-48aa-aa4b-146426c095c0.png)
       
-- Lowerbody &#x2192; Alias RC_IIT_029_A_001_LOWERBOD_VAR-E cod. 12288 rev A1 &#x2192; snapshot batch2020-01.     
+- Lowerbody &#x2192; Alias RC_IIT_029_A_001_LOWERBOD_VAR-E cod. 12288 rev A1 &#x2192; **snapshot batch2020-01**.     
 - Lowerbody SEA covers &#x2192; Alias RC_IIT_028_A_008 cod. 14283 rev A3.
 
 **Other mechanical components**
