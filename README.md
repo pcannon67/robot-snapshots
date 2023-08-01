@@ -1,4 +1,4 @@
-# Snapshot of ergocub S/N 001 
+# Snapshot of ergocub1.1 S/N 001 
 
 - ### Mechanical Snapshot ###
 
