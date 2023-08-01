@@ -1,1 +1,1 @@
-# Snapshot of ergocub S/N 002 
+# Snapshot of ergocub1.1 S/N 002 
